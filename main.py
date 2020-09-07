@@ -1,3 +1,7 @@
+#Author: Vyacheslav Hlushko vqh5091@psu.edu
+#Collaborator Brian Chettle bjc5969@psu.edu
+#Collaborator Ching-Ju Chen cxc6001@psu.edu
+#Collaborator Youngjae Bae yvb5135@psu.edu
 temperature=float(input("Enter temperature:"))
 unitinput=str(input(" Enter unit in F/f or C/c: "))
 
